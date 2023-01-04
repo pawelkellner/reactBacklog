@@ -69,7 +69,7 @@ const Form = () =>{
             <div className="formInputsWrapper">
                 {inputsToBeRendered}
             </div>
-            <button className="form__search" onClick={submit}>zoeken</button>
+            <button className="form__search" onClick={submit}>SEARCH</button>
         </form>
     );
 }
